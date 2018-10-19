@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Soleek Android Task</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="no_internet">No internet connection, please make sure your device is connected to the internet</string>
+</resources>
